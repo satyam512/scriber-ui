@@ -1,0 +1,12 @@
+{
+  "availableForms": [{
+    "formTemplate": {
+      "formName": "Driving License",
+      "fields": [{
+        "label": "Name",
+        "type": "text",
+        "maxLength": 32
+      }]
+    }
+  }]
+}

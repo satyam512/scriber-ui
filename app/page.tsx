@@ -20,7 +20,7 @@ export default function Page() {
               <span className="text-white">Licensing hassles</span>
             </h1>
             <Link
-              href="/auth"
+              href="/auth/signup"
               className="text-xl font-bold bg-dark py-3 px-6 mt-4 block w-max text-white"
             >
               Let&apos;s go!
